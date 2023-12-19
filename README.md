@@ -16,7 +16,12 @@ Cloudy Clothing Store provides a curated collection of fashionable and trendy ap
 
 ## 🎥 Preview
 
-[![Cloudy Clothing Store](https://img.youtube.com/vi/xTfRI4a0350/maxresdefault.jpg)](https://youtu.be/xTfRI4a0350)
+<div align="center">
+  <a href="https://youtu.be/xTfRI4a0350">
+    <img src="https://img.youtube.com/vi/xTfRI4a0350/maxresdefault.jpg" alt="Cloudy Clothing Store Video" width="480" height="270">
+    <br>
+  </a>
+</div>
 
 ## 🛠️ Getting Started
 
